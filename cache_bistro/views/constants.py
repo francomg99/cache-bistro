@@ -1,0 +1,7 @@
+TRIPADVISOR_URL="https://www.tripadvisor.es/Restaurant_Review-g312781-d19703962-Reviews-Cache_Bistro-Mendoza_Province_of_Mendoza_Cuyo.html"
+INSTAGRAM_URL="https://www.instagram.com/cachebistro_"
+WHATSAPP_URL="https://wa.me/+542613400065"
+VINOS_URL="https://drive.google.com/file/d/1jdkzzHlCf6fJ0KUK3pps26eEAAosybzJ/view?usp=sharing"
+UBICACION_URL="https://www.google.com/maps?gs_lcrp=EgZjaHJvbWUqBggCEEUYOzIGCAAQRRg8MgYIARBFGDsyBggCEEUYOzIGCAMQRRg5MgYIBBBFGDsyDAgFEAAYQxiABBiKBTIGCAYQRRg9MgYIBxBFGD0yBggIEEUYPNIBCDI0MzZqMGoxqAIAsAIA&um=1&ie=UTF-8&fb=1&gl=es&sa=X&geocode=KWE4ONj7CX6WMTYHTnngipTU&daddr=Gral.+Espejo+529,+M5500+Mendoza,+Argentina"
+MAIL_URL="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZdBdRPvfXdvhcGmfNKSNLVnjfWpkfnWjjHDdhktMGpxKffQQDzFQSRHZBtqSZpZzrwfLV"
+WINE_LIST_URL="https://drive.google.com/drive/folders/1Mmmy5BZu5UUUF6SqkI_H5rV4meE4lk8F"
