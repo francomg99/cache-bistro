@@ -39,7 +39,7 @@ def footer_desktop():
                 rx.spacer(),
                 rx.link(
                     "©Pagina creada por Franco Martínez - Reflex | Python",
-                    href="https://hermes.reflex.run/",
+                    href="https://hermesdev.es",
                     is_external=True,
                     margin="1em",
                     color="#828282"
