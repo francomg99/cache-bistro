@@ -16,7 +16,10 @@ def title(text: str) -> rx.Component:
 def subtitle(text: str) -> rx.Component:
     return rx.heading(
                 rx.hstack(
-                    rx.text(text),        
+                    rx.text(
+                        text,
+                        line_height=["1", "0"],    
+                    )     
                     ),
                     align="left",
                     padding_top=Size.MEDIUM.value,

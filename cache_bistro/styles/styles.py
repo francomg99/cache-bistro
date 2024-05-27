@@ -52,12 +52,15 @@ drinktitle_style = dict(
 
 plates_style= dict(
         color="white", 
-        font_size=Size.LETTER.value,      
+        font_size=Size.LETTER.value,
+        margin_right="1em"      
 )
 
 plates_other_style= dict(
         color="white", 
         font_size=Size.MEDIUM.value,
+        width="98%",         
+        margin_right="1em"           
 )
 
 
