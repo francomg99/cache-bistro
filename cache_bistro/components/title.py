@@ -18,7 +18,7 @@ def subtitle(text: str) -> rx.Component:
                 rx.hstack(
                     rx.text(
                         text,
-                        line_height=["1", "0"],    
+                        line_height=["1", "1"],    
                     )     
                     ),
                     align="left",
