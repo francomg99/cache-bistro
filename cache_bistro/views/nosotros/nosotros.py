@@ -45,7 +45,8 @@ def info() -> rx.Component:
                 widht="100%",            
                 style={
                     "text_indent": Size.DEFAULT.value,
-                    "font_size": Size.LETTER.value
+                    "font_size": Size.LETTER.value,
+                    'text_align': 'justify'
                 }
                 ),
                 rx.chakra.link(
@@ -100,7 +101,8 @@ def info() -> rx.Component:
                 widht="100%",            
                 style={
                     "text_indent": Size.DEFAULT.value,
-                    "font_size": Size.LETTER.value
+                    "font_size": Size.LETTER.value,
+                    'text_align': 'justify'
                 }
                 )
         )

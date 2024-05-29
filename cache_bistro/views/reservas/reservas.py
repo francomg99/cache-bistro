@@ -23,7 +23,8 @@ def info_wpp() -> rx.Component:
             padding_left=[Size.SMALL.value, Size.BIG.value],
             padding_right=[Size.SMALL.value, Size.BIG.value],
             style={
-                'font_size': Size.LETTER.value
+                'font_size': Size.LETTER.value,
+                'text_align': 'justify'
             }   
         ),
 
@@ -48,8 +49,8 @@ def info_ig() -> rx.Component:
             padding_left=[Size.SMALL.value, Size.BIG.value],
             padding_right=[Size.SMALL.value, Size.BIG.value],
             style={
-                'font_size': Size.LETTER.value
-            }   
+                'font_size': Size.LETTER.value,
+                'text_align': 'justify'            }   
         ),
     )
     
@@ -74,8 +75,8 @@ def info_correo() -> rx.Component:
             padding_left=[Size.SMALL.value, Size.BIG.value],
             padding_right=[Size.SMALL.value, Size.BIG.value],
             style={
-                'font_size': Size.LETTER.value
-            }   
+                'font_size': Size.LETTER.value,
+                'text_align': 'justify'            }   
         ),
 
     )    
@@ -98,8 +99,8 @@ def info_trip() -> rx.Component:
             padding_left=[Size.SMALL.value, Size.BIG.value],
             padding_right=[Size.SMALL.value, Size.BIG.value],
             style={
-                'font_size': Size.LETTER.value
-            }   
+                'font_size': Size.LETTER.value,
+                'text_align': 'justify'            }   
         ),
 
     )

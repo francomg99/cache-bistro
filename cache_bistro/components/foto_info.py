@@ -12,6 +12,7 @@ def foto_info(src= str, alt=str, text=str) -> rx.Component:
             align="center",
             padding=[Size.SMALL.value, Size.MEDIUM.value],
             style={
-            "font_size": Size.LETTER.value
+            "font_size": Size.LETTER.value,
+            'text_align': 'justify'
             }                        
         )

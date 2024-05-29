@@ -44,7 +44,8 @@ def quienes_somos() -> rx.Component:
                 padding_right=[Size.SMALL.value, Size.BIG.value],
                 style={
                     "text_indent": Size.DEFAULT.value,
-                    "font_size": Size.LETTER.value
+                    "font_size": Size.LETTER.value,
+                    'text_align': 'justify'
                 }
             )
         )    
