@@ -37,8 +37,6 @@ def nuestros_rincones() -> rx.Component:
                         )                                                
                     ),
                     columns=[1, 3],      
-                    direction="row",
-                    justify="center",
                     width="100%"
                 )
         )
