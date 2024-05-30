@@ -5,7 +5,7 @@ def foto_info(src= str, alt=str, text=str) -> rx.Component:
     return rx.box(
             rx.image(src=src, alt=alt, width="400px", height="400px"),
             rx.text(text, 
-            width="400px",
+            width="399px",
             margin_top=Size.MEDIUM.value
             ),
             direction="column",
